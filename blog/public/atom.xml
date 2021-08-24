@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>DueUtil</title>
+	<title>DueUtil Blog</title>
 	<link href="https://blog.dueutil.tech/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.dueutil.tech"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>

@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://blog.dueutil.tech"
-title = "DueUtil"
+title = "DueUtil Blog"
 
 description = ""
 
@@ -46,10 +46,9 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-author = "Aaran Xu"
-github = "https://github.com/aaranxu"
-twitter = "https://twitter.com/aaranxu"
-email = "aaranxu@outlook.com"
+author = "DueUtil"
+twitter = "https://twitter.com/DueUtil"
+email = "macdue@dueutil.tech"
 
 # If running on netlify.app site, set to true
 is_netlify = false
@@ -58,7 +57,7 @@ is_netlify = false
 language_code = "en_GB"
 
 # Set theme-color meta tag for Chrome browser
-theme_color = "#fff"
+theme_color = "#FFC539"
 
 # More about site's title
 title_separator = "|"  # set as |, -, _, etc
@@ -67,7 +66,7 @@ title_addition = "Modern Documentation Theme"
 
 # Set date format in blog publish metadata
 timeformat = "%B %e, %Y" # e.g. June 14, 2021
-timezone = "America/Los_Angeles"
+timezone = "Europe/London"
 
 # Edit page on reposity or not
 edit_page = false
@@ -84,17 +83,15 @@ library = "katex"  # options: "katex", "mathjax". default is "katex".
 [extra.open]
 enable = true
 # this image will be used as fallback if a page has no image of its own
-image = "doks.png"
-twitter_site = "aaranxu"
-twitter_creator = "aaranxu"
-facebook_author = "ichunyun"
-facebook_publisher = "ichunyun"
+image = "due.png"
+twitter_site = "DueUtil"
+twitter_creator = "DueUtil"
 og_locale = "en_US"
 
 ## JSON-LD
 [extra.schema]
 type = "Organization"
-logo = "logo-doks.png"
+logo = "logo-due.png"
 twitter = ""
 linked_in = ""
 github = ""
