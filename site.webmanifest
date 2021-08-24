@@ -1,1 +1,14 @@
-{"name":"Zola Theme AdiDoks","short_name":"AdiDoks","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#fff","background_color":"#fff","display":"standalone"}
+{
+    "name": "DueUtil Blog",
+    "short_name": "DueUtil Blog",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFC539",
+    "background_color": "#61544F",
+    "display": "standalone"
+}
