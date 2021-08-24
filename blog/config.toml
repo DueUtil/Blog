@@ -1,6 +1,7 @@
 # The URL the site will be built for
 base_url = "https://blog.dueutil.tech"
 title = "DueUtil"
+
 description = ""
 
 # The site theme to use.
