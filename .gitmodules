@@ -1,3 +1,3 @@
 [submodule "blog/themes/adidoksdue"]
 	path = blog/themes/adidoksdue
-	url = https://github.com/DueUtil/adidoksdue.git
+	url = git@github.com:DueUtil/adidoksdue.git
