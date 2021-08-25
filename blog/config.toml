@@ -2,7 +2,7 @@
 base_url = "https://blog.dueutil.tech"
 title = "DueUtil Blog"
 
-description = ""
+description = "DueUtil's blogs and documentation!"
 
 # The site theme to use.
 theme = "adidoksdue"
