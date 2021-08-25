@@ -83,7 +83,7 @@ library = "katex"  # options: "katex", "mathjax". default is "katex".
 [extra.open]
 enable = true
 # this image will be used as fallback if a page has no image of its own
-image = "due.png"
+image = "/dueblog.png"
 twitter_site = "DueUtil"
 twitter_creator = "DueUtil"
 og_locale = "en_US"
