@@ -110,7 +110,7 @@ weight = 10
 [[extra.menu.main]]
 name = "Blog"
 section = "blog"
-url = "/blog/"
+url = "/"
 weight = 20
 
 [[extra.menu.social]]
