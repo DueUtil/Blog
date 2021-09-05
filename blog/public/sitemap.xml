@@ -7,78 +7,31 @@
         <loc>https://blog.dueutil.tech/authors/</loc>
     </url>
     <url>
-        <loc>https://blog.dueutil.tech/authors/aaran-xu/</loc>
+        <loc>https://blog.dueutil.tech/authors/dueutil/</loc>
         <lastmod>2021-04-01T08:50:45+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/authors/public/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/authors/rustaceans/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/hello-world/</loc>
-        <lastmod>2021-05-01T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/markdown-syntax/</loc>
-        <lastmod>2021-04-20T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/math-typesetting/</loc>
-        <lastmod>2021-04-08T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/page/1/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/page/2/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/page/3/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/placeholder-text/</loc>
-        <lastmod>2021-04-10T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/blog/say-hello-to-zola-doks/</loc>
-        <lastmod>2021-04-03T07:00:00+00:00</lastmod>
     </url>
     <url>
         <loc>https://blog.dueutil.tech/docs/</loc>
     </url>
     <url>
-        <loc>https://blog.dueutil.tech/docs/contributing/</loc>
+        <loc>https://blog.dueutil.tech/docs/under-construction/</loc>
     </url>
     <url>
-        <loc>https://blog.dueutil.tech/docs/contributing/code-of-conduct/</loc>
-        <lastmod>2021-05-01T18:20:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/docs/contributing/how-to-contribute/</loc>
-        <lastmod>2021-05-01T18:10:00+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/docs/getting-started/</loc>
-    </url>
-    <url>
-        <loc>https://blog.dueutil.tech/docs/getting-started/introduction/</loc>
+        <loc>https://blog.dueutil.tech/docs/under-construction/under-construction/</loc>
         <lastmod>2021-05-01T08:00:00+00:00</lastmod>
     </url>
     <url>
-        <loc>https://blog.dueutil.tech/docs/getting-started/quick-start/</loc>
-        <lastmod>2021-05-01T08:20:00+00:00</lastmod>
+        <loc>https://blog.dueutil.tech/images/</loc>
     </url>
     <url>
-        <loc>https://blog.dueutil.tech/docs/help/</loc>
+        <loc>https://blog.dueutil.tech/images/icons/</loc>
     </url>
     <url>
-        <loc>https://blog.dueutil.tech/docs/help/faq/</loc>
-        <lastmod>2021-05-01T19:30:00+00:00</lastmod>
+        <loc>https://blog.dueutil.tech/introducing-dueutil-pets/</loc>
+        <lastmod>2021-09-05T09:19:42+00:00</lastmod>
+    </url>
+    <url>
+        <loc>https://blog.dueutil.tech/page/1/</loc>
     </url>
     <url>
         <loc>https://blog.dueutil.tech/privacy-policy/</loc>
