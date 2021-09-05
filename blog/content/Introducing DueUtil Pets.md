@@ -34,7 +34,7 @@ lead = ""
 ## How to get a pet?
 
 You can get your first pet using <kbd><a href="https://dueutil.tech/commands#starterpet">d!starterpet</a></kbd>
-<img src="../images/starterpet.png" alt="starterpet" class="blog-image-margin blog-shadow blog-border">
+<img src="../images/starterpet.png" alt="starterpet" class="blog-image-margin blog-shadow blog-border" style="width:80%">
 
 As you can see, you have a choice between two different pets.\
 These two pets wont change if you reuse the command.
@@ -42,7 +42,7 @@ These two pets wont change if you reuse the command.
 \
 You can view a list of all your pets by using <kbd><a href="https://dueutil.tech/commands#mypets">d!mypets</a></kbd>
 
-<img src="../images/mypets.png" alt="mypets" class="blog-image-margin blog-shadow blog-border" >
+<img src="../images/mypets.png" alt="mypets" class="blog-image-margin blog-shadow blog-border" style="width:80%">
 
 <!-- style="margin-top:10px;margin-bottom:10px;width:80%;display:block;border-radius:10px;box-shadow:31px 31px 44px #272113,-31px -31px 44px #2b2515;" -->
 
@@ -101,10 +101,10 @@ A pet's `rarity` effects:
 #### Rare Essence
 
 On your <kbd><a href="https://dueutil.tech/commands#mypets">d!mypets</a></kbd> page, you can see an item called Rare Essence.\
-<img src="../rareessence.png" alt="rare essence" class="blog-image-margin blog-shadow blog-border" style="width:20%">
+<img src="../images/rareessence.png" alt="rare essence" class="blog-image-margin blog-shadow blog-border" style="width:20%">
 Rare Essence is used to upgrade your pets <kbd>rarity</kbd>, by using <kbd><a href="https://dueutil.tech/commands#rarifypet">d!rarifypet</a></kbd>
 
-<img src="../rarifypet.png" alt="rarifypet" class="blog-image-margin blog-shadow blog-border" style="width:80%">
+<img src="../images/rarifypet.png" alt="rarifypet" class="blog-image-margin blog-shadow blog-border" style="width:80%">
 Rare Essence is one of the rewards of a <kbd><a href="https://dueutil.tech/commands#petbt">d!petbt</a></kbd>
 
 </br></br>
