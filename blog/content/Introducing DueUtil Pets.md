@@ -4,6 +4,7 @@ description = "Cute, friendly, life-like pals, that you can collect, train in pe
 date = 2021-09-05T09:19:42+00:00
 updated = 2021-09-05T09:19:42+00:00
 draft = false
+image = "../images/DueUtilPets.png"
 template = "blog/page.html"
 
 [taxonomies]
