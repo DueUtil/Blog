@@ -96,7 +96,8 @@ A pet's `rarity` effects:
   <li>What <kbd>elements</kbd> it can spawn with (currently pets can get all <kbd>elements</kbd>)</li>
   <li>A pet's starting stats at level 1</li>
   <li>Stat increases when levelling up (higher stat increase with higher rarity)</li>
-  <li>Special move rarity (moves will drop close to your pet's rarity)</li>
+  <li>Base moves (higher rarity, higher stats)</li>
+  <li>Special moves (moves will drop closer to your pet's rarity)</li>
 </ul>
 
 #### Rare Essence
@@ -198,6 +199,7 @@ The range of protection the defend gives, increases as the pet levels up.
 
 A regen move that gives your pet a random amount of `Mana` back. \
 The range of `Mana` resting gives, increases as the pet levels up.
+
 </br></br>
 
 ### Special Moves
