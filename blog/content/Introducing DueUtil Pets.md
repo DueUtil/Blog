@@ -1,8 +1,8 @@
 +++
 title = "DueUtil Pets (Beta)"
 description = "Cute, friendly, life-like pals, that you can collect, train in pet battles, and trade with your compatriots!"
-date = 2021-08-28T09:19:42+00:00
-updated = 2021-08-28T09:19:42+00:00
+date = 2021-09-05T09:19:42+00:00
+updated = 2021-09-05T09:19:42+00:00
 draft = false
 template = "blog/page.html"
 
@@ -13,7 +13,7 @@ authors = ["DueUtil"]
 lead = ""
 +++
 
-<img src="../DueUtilPets.png" alt="DueUtil Pets" class="blog-shadow blog-border" style="width:100%;margin-left:auto;margin-right:auto">
+<img src="../images/DueUtilPets.png" alt="DueUtil Pets" class="blog-shadow blog-border" style="width:100%;margin-left:auto;margin-right:auto">
 
 <!-- <iframe width="640" height="360" class="blog-shadow blog-border" style="width:100%;margin-left:auto;margin-right:auto" src="https://www.youtube.com/embed/NTRvugHzgLY" title="DueUtil Pets Reveal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe> -->
 </br>
