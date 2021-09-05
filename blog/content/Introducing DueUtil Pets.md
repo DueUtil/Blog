@@ -101,10 +101,10 @@ A pet's `rarity` effects:
 #### Rare Essence
 
 On your <kbd><a href="https://dueutil.tech/commands#mypets">d!mypets</a></kbd> page, you can see an item called Rare Essence.\
-<img src="../rareessence.png" alt="rare essence" style="margin-top:10px;margin-bottom:10px;width:20%;display:block;border-radius:2px;box-shadow:31px 31px 44px #272113,-31px -31px 44px #2b2515;">
+<img src="../rareessence.png" alt="rare essence" class="blog-image-margin blog-shadow blog-border" style="width:20%">
 Rare Essence is used to upgrade your pets <kbd>rarity</kbd>, by using <kbd><a href="https://dueutil.tech/commands#rarifypet">d!rarifypet</a></kbd>
 
-<img src="../rarifypet.png" alt="rarifypet" style="margin-top:10px;margin-bottom:10px;width:80%;display:block;border-radius:10px;box-shadow:31px 31px 44px #272113,-31px -31px 44px #2b2515;">
+<img src="../rarifypet.png" alt="rarifypet" class="blog-image-margin blog-shadow blog-border" style="width:80%">
 Rare Essence is one of the rewards of a <kbd><a href="https://dueutil.tech/commands#petbt">d!petbt</a></kbd>
 
 </br></br>
