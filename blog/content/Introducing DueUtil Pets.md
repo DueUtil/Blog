@@ -96,6 +96,7 @@ A pet's `rarity` effects:
   <li>What <kbd>elements</kbd> it can spawn with (currently pets can get all <kbd>elements</kbd>)</li>
   <li>A pet's starting stats at level 1</li>
   <li>Stat increases when levelling up (higher stat increase with higher rarity)</li>
+  <li>Special move rarity (moves will drop close to your pet's rarity)</li>
 </ul>
 
 #### Rare Essence
@@ -202,6 +203,10 @@ The range of `Mana` resting gives, increases as the pet levels up.
 ### Special Moves
 
 Special moves are something pets spawn with, and can aquire/change over time. \
+Special moves, like pets themselves, spawn with a different `rarity` \
+
+The higher the special move `rarity`, the stronger the move is; this could include things like: higher damage, longer status effect duration -- all at the cost of a higher `Mana` cost. \
+
 All pets start with 3 special moves:
 
 <p style="float: left;"><img src="../images/icons/UniversalSmall.png" alt="Suprise Attack" class="blog-icon-margin"></p>
