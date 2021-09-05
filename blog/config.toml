@@ -104,7 +104,7 @@ site_links_search_box = false
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "/docs/getting-started/introduction/"
+url = "docs/under-construction/under-construction/"
 weight = 10
 
 [[extra.menu.main]]
@@ -130,12 +130,12 @@ weight = 20
 [extra.footer]
 info = 'Copyright © 2021 DueUtil. All rights reserved.'
 
-[[extra.footer.nav]]
-name = "Privacy"
-url = "/privacy-policy/"
-weight = 10
+# [[extra.footer.nav]]
+# name = "Privacy"
+# url = "/privacy-policy/"
+# weight = 10
 
-[[extra.footer.nav]]
-name = "Code of Conduct"
-url = "/docs/contributing/code-of-conduct/"
-weight = 20
+# [[extra.footer.nav]]
+# name = "Code of Conduct"
+# url = "/docs/contributing/code-of-conduct/"
+# weight = 20
