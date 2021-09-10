@@ -165,14 +165,10 @@ You will get more `Mana` than `HP`.
 Pets with a rarity of <span style="color: #a3f27c">Uncommon</span> or higher, will spawn with an `element`\
 There are currently 4 types of `elements`:
 
-<p style="float: left;"><img src="../images/icons/PhoticSmall.png" alt="Photic" class="blog-icon-margin"></p>
-    <p style="color: #f5f598"> Photic</p>
-<p style="float: left;"><img src="../images/icons/FlamingSmall.png" alt="Flaming" class="blog-icon-margin"></p>
-    <p style="color: #f5bf98"> Flaming</p>
-<p style="float: left;"><img src="../images/icons/Sub-ZeroSmall.png" alt="Sub-Zero" class="blog-icon-margin"></p>
-    <p style="color: #a6f7f1"> Sub-Zero</p>
-<p style="float: left;"><img src="../images/icons/StoicSmall.png" alt="Stoic" class="blog-icon-margin"></p>
-    <p style="color: #f2dac4"> Stoic</p>
+<p><img src="../images/icons/PhoticSmall.png" alt="Photic" class="blog-icon-margin"><span style="color: #f5f598"> Photic</span></p>
+<p><img src="../images/icons/FlamingSmall.png" alt="Flaming" class="blog-icon-margin"><span style="color: #f5bf98"> Flaming</span></p>
+<p><img src="../images/icons/Sub-ZeroSmall.png" alt="Sub-Zero" class="blog-icon-margin"><span style="color: #a6f7f1"> Sub-Zero</span></p>
+<p><img src="../images/icons/StoicSmall.png" alt="Stoic" class="blog-icon-margin"><span style="color: #f2dac4"> Stoic</span></p>
 
 Each `element` has its own set of `Special Moves`\
 Currently, all `elements` has an equal chance of spawning.
