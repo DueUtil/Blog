@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>DueUtil Blog</title>
+	<subtitle>DueUtil&#x27;s blogs and documentation!</subtitle>
+	<link href="https://blog.dueutil.tech/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://blog.dueutil.tech"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-09-05T09:19:42+00:00</updated>
+	<id>https://blog.dueutil.tech/atom.xml</id>
+	<entry xml:lang="en">
+		<title>DueUtil Pets (Beta)</title>
+		<published>2021-09-05T09:19:42+00:00</published>
+		<updated>2021-09-05T09:19:42+00:00</updated>
+		<link href="https://blog.dueutil.tech/introducing-dueutil-pets/" type="text/html"/>
+		<id>https://blog.dueutil.tech/introducing-dueutil-pets/</id>
+		<content type="html">&lt;img src=&quot;..&#x2F;images&#x2F;DueUtilPets.png&quot; alt=&quot;DueUtil Pets&quot; class=&quot;blog-shadow blog-border&quot; style=&quot;width:100%;margin-left:auto;margin-right:auto&quot;&gt;
+&lt;!-- &lt;iframe width=&quot;640&quot; height=&quot;360&quot; class=&quot;blog-shadow blog-border&quot; style=&quot;width:100%;margin-left:auto;margin-right:auto&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;NTRvugHzgLY&quot; title=&quot;DueUtil Pets Reveal&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;&gt;&lt;&#x2F;iframe&gt; --&gt;
+&lt;&#x2F;br&gt;
+&lt;h4 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#how-to-get-a-pet&quot;&gt;How to get a pet?&lt;&#x2F;a&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#species&quot;&gt;Species&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#viewing-your-pet&quot;&gt;Viewing your pet&lt;&#x2F;a&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#rarity&quot;&gt;Rarity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#pet-battles&quot;&gt;Pet Battles&lt;&#x2F;a&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#hp-mana&quot;&gt;HP &amp;amp; Mana&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#elements&quot;&gt;Elements&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#base-moves&quot;&gt;Base Moves&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#special-moves&quot;&gt;Special Moves&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#pet-drops&quot;&gt;Pet Drops&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dueutil.tech&#x2F;introducing-dueutil-pets&#x2F;#level&quot;&gt;Level&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;how-to-get-a-pet&quot;&gt;How to get a pet?&lt;&#x2F;h2&gt;
+&lt;p&gt;You can get your first pet using &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#starterpet&quot;&gt;d!starterpet&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;starterpet.png&quot; alt=&quot;starterpet&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As you can see, you have a choice between two different pets.&lt;br &#x2F;&gt;
+These two pets wont change if you reuse the command.
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+You can view a list of all your pets by using &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#mypets&quot;&gt;d!mypets&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;mypets.png&quot; alt=&quot;mypets&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;
+&lt;!-- style=&quot;margin-top:10px;margin-bottom:10px;width:80%;display:block;border-radius:10px;box-shadow:31px 31px 44px #272113,-31px -31px 44px #2b2515;&quot; --&gt;
+&lt;&#x2F;br&gt;
+&lt;h4 id=&quot;species&quot;&gt;Species&lt;&#x2F;h4&gt;
+&lt;p&gt;There&#x27;s 2 types of species of pet you can collect:&lt;&#x2F;p&gt;
+&lt;h4 style=&quot;color: #6fff59&quot;&gt; Froggles &lt;&#x2F;h4&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;froggle_shaded.png&quot; alt=&quot;froggle&quot; class=&quot;blog-image-margin&quot; style=&quot;width:80%&quot;&gt;
+&lt;h4 style=&quot;color: #ff7d9b&quot;&gt; Booples &lt;&#x2F;h4&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;boople_shaded.png&quot; alt=&quot;boople&quot; class=&quot;blog-image-margin&quot; style=&quot;width:80%&quot;&gt;
+&lt;p&gt;Each species of pet has its own set of skins.&lt;br &#x2F;&gt;
+Currently, there are no stat differences between pets.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;viewing-your-pet&quot;&gt;Viewing your pet&lt;&#x2F;h2&gt;
+&lt;p&gt;To view your pet&#x27;s info, you use &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#mypets&quot;&gt;d!mypets [pet name]&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;mypets_froggle.png&quot; alt=&quot;froggle info&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;To see extra info about your pet, you can click the button below the image.
+&lt;img src=&quot;..&#x2F;images&#x2F;special_move_desc.png&quot; alt=&quot;froggle special moves&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;br&gt;
+&lt;h3 id=&quot;rarity&quot;&gt;Rarity&lt;&#x2F;h3&gt;
+&lt;p&gt;You will notice on your pet&#x27;s info card, it has a &lt;code&gt;rarity&lt;&#x2F;code&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;rarity.png&quot; alt=&quot;rarity&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:30%&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;There are 5 types of &lt;code&gt;rarity&lt;&#x2F;code&gt; a pet can spawn with:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Common (chance: 50%)&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;span style=&quot;color: #a3f27c&quot;&gt;Uncommon &lt;&#x2F;span&gt; (chance: 25%)&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;span style=&quot;color: #7f96f3&quot;&gt;Rare&lt;&#x2F;span&gt; (chance: 20%)&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;span style=&quot;color: #bd88f3&quot;&gt;Very Rare&lt;&#x2F;span&gt; (chance: 4%)&lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;span style=&quot;color: #f5db88&quot;&gt;Legendary&lt;&#x2F;span&gt; (chance: 1%)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;There is a 6th rarity - &lt;span style=&quot;color: #17cdb9&quot;&gt;Exotic&lt;&#x2F;span&gt;
+- but it cannot be obtained normally.&lt;&#x2F;p&gt;
+&lt;p&gt;A pet&#x27;s &lt;code&gt;rarity&lt;&#x2F;code&gt; effects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The skin of the pet&lt;&#x2F;li&gt;
+  &lt;li&gt;What &lt;kbd&gt;elements&lt;&#x2F;kbd&gt; it can spawn with (currently pets can get all &lt;kbd&gt;elements&lt;&#x2F;kbd&gt;)&lt;&#x2F;li&gt;
+  &lt;li&gt;A pet&#x27;s starting stats at level 1&lt;&#x2F;li&gt;
+  &lt;li&gt;Stat increases when levelling up (higher stat increase with higher rarity)&lt;&#x2F;li&gt;
+  &lt;li&gt;Base moves (higher rarity, higher stats)&lt;&#x2F;li&gt;
+  &lt;li&gt;Special moves (moves will drop closer to your pet&#x27;s rarity)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;rare-essence&quot;&gt;Rare Essence&lt;&#x2F;h4&gt;
+&lt;p&gt;On your &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#mypets&quot;&gt;d!mypets&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt; page, you can see an item called Rare Essence.&lt;br &#x2F;&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;rareessence.png&quot; alt=&quot;rare essence&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:20%&quot;&gt;
+Rare Essence is used to upgrade your pets &lt;kbd&gt;rarity&lt;&#x2F;kbd&gt;, by using &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#rarifypet&quot;&gt;d!rarifypet&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;rarifypet.png&quot; alt=&quot;rarifypet&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;
+Rare Essence is one of the rewards of a &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pet-battles&quot;&gt;Pet Battles&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;a-new-way-to-battle-on-dueutil&quot;&gt;&lt;em&gt;A new way to battle on DueUtil!&lt;&#x2F;em&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;A &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt; is a turn-based interactive fight between two pets (PvP). &lt;br &#x2F;&gt;
+Both pets battle to reduce the others’ &lt;code&gt;HP&lt;&#x2F;code&gt; to 0 using a varity of &lt;code&gt;moves&lt;&#x2F;code&gt; &lt;&#x2F;p&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;interactive_pet_battle.gif&quot; alt=&quot;pet battle&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;
+&lt;&#x2F;br&gt;
+&lt;p&gt;Pet battles reward both the winner and the loser.&lt;&#x2F;p&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;pet_battle_rewards.png&quot; alt=&quot;pet battle rewards&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:70%&quot;&gt;
+&lt;p&gt;Fighting against stronger pets than your own, will give you greater rewards.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;hp-mana&quot;&gt;HP &amp;amp; Mana&lt;&#x2F;h3&gt;
+&lt;p&gt;Pets have two stats that are used in a &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;&lt;&#x2F;p&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;HPSmall.png&quot; alt=&quot;HP&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;
+    &lt;p style=&quot;color: #e0563d&quot;&gt; HP&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;HP&lt;&#x2F;code&gt; is your pet&#x27;s health. &lt;br &#x2F;&gt;
+During a &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;, the aim it to get your opponents &lt;code&gt;HP&lt;&#x2F;code&gt; to 0.&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+When a battle is finished, your &lt;code&gt;HP&lt;&#x2F;code&gt; takes a few minutes to heal.&lt;br &#x2F;&gt;
+The heal rate is 8&lt;code&gt;HP&lt;&#x2F;code&gt; per minute.&lt;&#x2F;p&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;ManaSmall.png&quot; alt=&quot;Mana&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;
+    &lt;p style=&quot;color: #76ff98&quot;&gt; Mana&lt;&#x2F;p&gt;
+&lt;!-- Not sure how to fix this gap --&gt;
+&lt;p&gt;&lt;code&gt;Mana&lt;&#x2F;code&gt; is your pet&#x27;s energy. &lt;br &#x2F;&gt;
+It is spent when you use a &lt;code&gt;move&lt;&#x2F;code&gt; or lost as a result of your&#x2F;opponents &lt;code&gt;moves&lt;&#x2F;code&gt; &lt;br &#x2F;&gt;
+Unlike &lt;code&gt;HP&lt;&#x2F;code&gt;, &lt;code&gt;Mana&lt;&#x2F;code&gt; resets after each battle.&lt;&#x2F;p&gt;
+&lt;&#x2F;br&gt;
+&lt;p&gt;Both stats increase by a random amount when your pet levels up. &lt;br &#x2F;&gt;
+You will get more &lt;code&gt;Mana&lt;&#x2F;code&gt; than &lt;code&gt;HP&lt;&#x2F;code&gt;.
+&lt;img src=&quot;..&#x2F;images&#x2F;froggle_rewards.png&quot; alt=&quot;froggle rewards&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:70%&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;elements&quot;&gt;Elements&lt;&#x2F;h3&gt;
+&lt;p&gt;Pets with a rarity of &lt;span style=&quot;color: #a3f27c&quot;&gt;Uncommon&lt;&#x2F;span&gt; or higher will spawn with an &lt;code&gt;element&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+There are currently 4 types of &lt;code&gt;elements&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;PhoticSmall.png&quot; alt=&quot;Photic&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;span style=&quot;color: #f5f598&quot;&gt; Photic&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;FlamingSmall.png&quot; alt=&quot;Flaming&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;span style=&quot;color: #f5bf98&quot;&gt; Flaming&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;Sub-ZeroSmall.png&quot; alt=&quot;Sub-Zero&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;span style=&quot;color: #a6f7f1&quot;&gt; Sub-Zero&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;StoicSmall.png&quot; alt=&quot;Stoic&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;span style=&quot;color: #f2dac4&quot;&gt; Stoic&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Each &lt;code&gt;element&lt;&#x2F;code&gt; has its own set of &lt;code&gt;Special Moves&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+Currently, all &lt;code&gt;elements&lt;&#x2F;code&gt; has an equal chance of spawning.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;base-moves&quot;&gt;Base Moves&lt;&#x2F;h3&gt;
+&lt;p&gt;All pets have these 3 base moves:&lt;&#x2F;p&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;AttackSmall.png&quot; alt=&quot;Attack&quot; class=&quot;blog-icon-margin&quot; &gt;&lt;&#x2F;p&gt;&lt;p&gt; Attack&lt;&#x2F;p&gt;
+&lt;p&gt;A standard attack move that deals damage to the opponent. &lt;br &#x2F;&gt;
+The damage dealt and &lt;code&gt;Mana&lt;&#x2F;code&gt; cost, increase as the pet levels up.
+&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;DefenseSmall.png&quot; alt=&quot;Defense&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;&lt;p&gt; Defend&lt;&#x2F;p&gt;
+&lt;p&gt;A defensive move that defends you from % of incoming damage from your opponent. &lt;br &#x2F;&gt;
+If your opponent attacks after you have used the move, you will lose 50% of the damage dealt as &lt;code&gt;Mana&lt;&#x2F;code&gt; &lt;br &#x2F;&gt;
+The range of protection the defend gives, increases as the pet levels up.
+&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;RestSmall.png&quot; alt=&quot;Rest&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;&lt;p&gt; Rest&lt;&#x2F;p&gt;
+&lt;p&gt;A regen move that gives your pet a random amount of &lt;code&gt;Mana&lt;&#x2F;code&gt; back. &lt;br &#x2F;&gt;
+The range of &lt;code&gt;Mana&lt;&#x2F;code&gt; resting gives, increases as the pet levels up.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;special-moves&quot;&gt;Special Moves&lt;&#x2F;h3&gt;
+&lt;p&gt;Special moves are something pets spawn with, and can aquire&#x2F;change over time. &lt;br &#x2F;&gt;
+Special moves, like pets themselves, spawn with a different &lt;code&gt;rarity&lt;&#x2F;code&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;The higher the special move &lt;code&gt;rarity&lt;&#x2F;code&gt;, the stronger the move is; this could include things like: higher damage, longer status effect duration -- all at the cost of a higher &lt;code&gt;Mana&lt;&#x2F;code&gt; cost. &lt;&#x2F;p&gt;
+&lt;p&gt;All pets start with 3 special moves:&lt;&#x2F;p&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;UniversalSmall.png&quot; alt=&quot;Suprise Attack&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt; Suprise Attack&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Prepare for a surprise attack, which once executed will deal &lt;strong&gt;2&lt;&#x2F;strong&gt; to &lt;strong&gt;5&lt;&#x2F;strong&gt; damage&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;UniversalSmall.png&quot; alt=&quot;Confound&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt; Confound&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Confuse your opponent, they&#x27;ll hurt themselves for &lt;strong&gt;1&lt;&#x2F;strong&gt; &lt;span&gt; &lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;HPSmall.png&quot; &gt;&lt;&#x2F;span&gt; for &lt;strong&gt;4&lt;&#x2F;strong&gt; turns&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p style=&quot;float: left;&quot;&gt;&lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;UniversalSmall.png&quot; alt=&quot;Healing Aura&quot; class=&quot;blog-icon-margin&quot;&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt; Healing Aura&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cast a healing aura over yourself, healing &lt;strong&gt;+1&lt;&#x2F;strong&gt; &lt;span&gt; &lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;HPSmall.png&quot; &gt;&lt;&#x2F;span&gt; for &lt;strong&gt;3&lt;&#x2F;strong&gt; turns&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Special moves can spawn with an &lt;code&gt;element&lt;&#x2F;code&gt;, or they can be &lt;kbd&gt;&lt;span&gt; &lt;img src=&quot;..&#x2F;images&#x2F;icons&#x2F;UniversalSmall.png&quot; &gt;&lt;&#x2F;span&gt; universal&lt;&#x2F;kbd&gt; (all pets can use them). &lt;&#x2F;p&gt;
+&lt;p&gt;Special moves drop for pets every 10 levels.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;pet-drops&quot;&gt;Pet Drops&lt;&#x2F;h3&gt;
+&lt;p&gt;Pet drops occur 5-10 seconds after a battle. &lt;br &#x2F;&gt;
+The winner of a &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt; has a 10% chance of a pet spawning.&lt;&#x2F;p&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;pet_drop.png&quot; alt=&quot;pet drop&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:50%&quot;&gt;
+&lt;p&gt;You have to be quick to make your decision. &lt;br &#x2F;&gt;
+&lt;strong&gt;After 30 seconds the pet will run away!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;..&#x2F;images&#x2F;pet_drop_run_away.png&quot; alt=&quot;pet drop ran away&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:50%&quot;&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;level&quot;&gt;Level&lt;&#x2F;h3&gt;
+&lt;p&gt;Pets gain exp for completing a &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;, but they also gain some &lt;code&gt;EXP&lt;&#x2F;code&gt; when you do a quest.
+&lt;img src=&quot;..&#x2F;images&#x2F;quest_pet_reward.png&quot; alt=&quot;quest pet reward&quot; class=&quot;blog-image-margin blog-shadow blog-border&quot; style=&quot;width:80%&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Pets cannot level up with the &lt;code&gt;EXP&lt;&#x2F;code&gt; gained from helping you in a quest. &lt;br &#x2F;&gt;
+The only way to level up is by completing a &lt;kbd&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dueutil.tech&#x2F;commands#petbt&quot;&gt;d!petbt&lt;&#x2F;a&gt;&lt;&#x2F;kbd&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Under construction</title>
+		<published>2021-05-01T08:00:00+00:00</published>
+		<updated>2021-05-01T08:00:00+00:00</updated>
+		<link href="https://blog.dueutil.tech/docs/under-construction/under-construction/" type="text/html"/>
+		<id>https://blog.dueutil.tech/docs/under-construction/under-construction/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>DueUtil</title>
+		<published>2021-04-01T08:50:45+00:00</published>
+		<updated>2021-04-01T08:50:45+00:00</updated>
+		<link href="https://blog.dueutil.tech/authors/dueutil/" type="text/html"/>
+		<id>https://blog.dueutil.tech/authors/dueutil/</id>
+		<content type="html">&lt;p&gt;The Questing and Battling Discord bot!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;DueUtil&quot;&gt;@DueUtil&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
