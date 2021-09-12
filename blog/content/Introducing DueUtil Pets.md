@@ -162,7 +162,7 @@ You will get more `Mana` than `HP`.
 
 ### Elements
 
-Pets with a rarity of <span style="color: #a3f27c">Uncommon</span> or higher, will spawn with an `element`\
+Pets with a rarity of <span style="color: #a3f27c">Uncommon</span> or higher will spawn with an `element`\
 There are currently 4 types of `elements`:
 
 <p><img src="../images/icons/PhoticSmall.png" alt="Photic" class="blog-icon-margin"><span style="color: #f5f598"> Photic</span></p>
